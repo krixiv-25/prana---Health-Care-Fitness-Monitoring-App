@@ -1,21 +1,27 @@
-# kenko
+Prana
+Getting Started
 
-## Getting Started
+Prana is a mobile application designed to help individuals maintain a healthy and balanced lifestyle by simplifying how they track their food intake, exercise routines, and weight progress.
 
-This project is to solve the issue of inconsistent and inconvenient tracking of food intake, exercise, and weight progress for individuals working toward their fitness goals.
+Prana helps users take complete control of their health and fitness journey.
 
-- ### Kenko is a mobile application designed to help users take control of their health and fitness journey
-- This app allows users to upload their daily intake and track their calorie values.
-- Users can select exercise activities they perform and track the calories burned. 
-- On the other side, the app tracks weight progress with respect to time, while the map-based gym locator allows for filtering between women-only and regular gyms.
-- Kenko combines diet, exercise, step tracking, and location-based services to give you a one-stop location for your fitness goals.
+Users can log their daily meals and automatically track their calorie intake.
 
-______________________________________________________________________________________________________________________________________________________________________________________________________________________
+They can choose exercise activities they perform and monitor the calories they burn.
+
+The app visualizes weight progress over time and includes a map-based gym locator that lets users filter between women-only and regular gyms.
+
+Prana integrates diet tracking, exercise monitoring, step tracking, and location-based services — making it your all-in-one fitness companion.
+
+Resources
+
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Lab: Write your first Flutter app
+
+Cookbook: Useful Flutter samples
 
 For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
+online documentation
+, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
