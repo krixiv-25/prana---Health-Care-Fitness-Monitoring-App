@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455947563830",
+    "project_id": "kenko-1",
+    "storage_bucket": "kenko-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455947563830:android:9099a7de5be62ca8737997",
+        "android_client_info": {
+          "package_name": "com.example.kenko"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTgN8anE_zX1Y8Q7I6GrJVQuugbiejJ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
